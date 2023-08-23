@@ -1,5 +1,5 @@
-class Jobs2{
+class Job2{
   public static void main (String a[]){
-    System.out.println(2+5)
+    System.out.println(2+5);
       }
 }
